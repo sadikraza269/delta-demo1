@@ -5,7 +5,7 @@ This is a demo for Git &amp; Github class.
 Sharadha khapra
 
 # student
-Delta studends
+sadik raza
 
 
 
